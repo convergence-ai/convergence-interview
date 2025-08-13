@@ -4,8 +4,6 @@
 
 Your goal is to build a deep research agent that can help users answer questions using the [Pokémon API](https://pokeapi.co/). The agent should be able to gather deep information, reason through the problem, and return a useful and rich response.
 
-This task is designed to reflect the kind of work you'd be doing on our team: figuring out the shape of the problem, making technical decisions under ambiguity, and learning as you go. There’s no single correct answer—we’re interested in **how you approach the problem**, not just whether you “finish” it.
-
 ### 🧭 Expectations
 
 Your submission should include:
@@ -76,4 +74,3 @@ convergence-interview/
 ```
 
 There is no expectation to write tests.
-```
