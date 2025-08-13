@@ -2,7 +2,7 @@
 
 ## 🚀 Your Task
 
-Your goal is to build a deep research agent that can help users answer questions using the [Pokémon API](https://pokeapi.co/). The agent should be able to gather deep information, reason through the problem, and return a useful and rich response.
+Your goal is to build a Deep Research agent that can answer questions about Pokemon. The agent should be able to use tools to gather information, reason through the problem, and return a useful response.
 
 ### 🧭 Expectations
 
@@ -10,7 +10,7 @@ Your submission should include:
 1. A working application or cli that allows interaction with your agent.
 2. An agent you implemented yourself (not just calling an agent library).
 3. Well-organised code.
-4. A README with instructions on how to set up and run your app.
+4. A README with instructions on how to set up and run your agent.
 
 ### Agent Design
 
@@ -23,9 +23,9 @@ Your README should outline the main agent design and your thought process.
 
 ### Evaluation
 
-Prioritize completing all of the above before you move on to "improving" your agent and making its outputs better.
+Prioritize completing all of the above. Then begin to iterate on your agent to improve its outputs, perhaps by tweaking the tools or prompts or overall agent design.
 
-Once you have a working agent, make sure to play around with your agent and inspect its outputs. Find out what's actually working well or not and iterate. If you don't know much about Pokemon, you can ask ChatGPT to evaluate the response for quality and it can point out recommendations or issues.
+Make sure to play around with your agent and inspect its outputs. Find out what's actually working well or not. If you don't know much about Pokemon, you can ask ChatGPT to evaluate the response for quality and it can point out recommendations or issues.
 
 ---
 
