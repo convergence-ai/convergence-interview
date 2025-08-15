@@ -7,7 +7,7 @@ Your goal is to build a Deep Research agent that can answer questions about Poke
 ### 🧭 Expectations
 
 Your submission should include:
-1. A working application or simple command lind client.
+1. A working application or simple command line client.
 2. An agent you implemented yourself (not just calling an agent library).
 3. Well-organised code.
 4. A README with instructions on how to set up and run your agent.
@@ -27,7 +27,11 @@ Your README should outline your final agent design, including the steps the agen
 
 Once things work end-to-end, begin to iterate on your agent to improve its outputs, perhaps by tweaking the tools or prompts.
 
-Make sure to play around with your agent and inspect its outputs. Find out what's actually working well or not. If you don't know much about Pokemon, you can ask ChatGPT to evaluate the response for quality and it can point out recommendations or issues.
+Make sure to play around with your agent and inspect its outputs. Find out what's actually working well or not.
+
+If you don't know much about Pokemon, you can ask ChatGPT to evaluate the response for quality and it can point out recommendations or issues.
+
+To build intuition, try a few simple tasks for your agent. If things don't work, break the tasks down or provide extra prompting to the agent and see what it is able to do. Then try to figure out what's missing.
 
 ---
 
