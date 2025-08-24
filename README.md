@@ -21,23 +21,25 @@ The agent should:
 
 We recommend you start simple and slowly expand your agent.
 
-Your README should outline your final agent design, including the steps the agent takes and what sort of tools it has.
+Your README should outline your final agent design, including how the agent solves problems and what sort of tools it has.
 
 ### Evaluation
 
-Once things are working end-to-end (your agent can reason and call tools), begin to iterate on your agent.
+We recommend you first get things flowing end-to-end (your agent can reason and call tools). Then it's time to iterate on your agent.
 
-Start out by trying a few simple tasks for your agent. If things don't work yet, try even simpler tasks (break the tasks down even more, or add extra information in your query: "Use the get_pokemon tool to return data about Pikachu").
+Start out by trying a few simple queries.
 
-It's important to see what your agent is able to do. Then try to figure out what's missing. You can try to improve its outputs, perhaps by adding new tools, fixing existing tools, or improving your system prompting.
+If things don't work yet, try even simpler (break the tasks down even more or add extra information in your query: "Use the get_pokemon tool to return data about Pikachu").
 
-Do make sure to play around with your agent and read its outputs. If you don't know much about Pokemon, you can ask ChatGPT to evaluate the response for quality and it can point out recommendations or issues.
+Slowly improve its outputs, perhaps by adding new tools, fixing existing tools, or improving your system prompts.
+
+Make sure to play around lots with your agent and actually read its outputs. If you don't know much about Pokemon, you can ask ChatGPT to evaluate the response (although it sometimes mixes up knowledge across games).
 
 ---
 
-## Getting Started on this Template Repo
+## Using the Template
 
-Feel free to use your own setup. The below explains how this particular template repository works.
+Feel free to start fresh and use your own setup.
 
 ### Prerequisites
 
@@ -65,7 +67,7 @@ Feel free to use your own setup. The below explains how this particular template
 
 ## Default Project Structure
 
-Feel free to adjust and design your own structure.
+Feel free to adjust.
 
 ```
 convergence-interview/
